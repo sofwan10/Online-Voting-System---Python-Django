@@ -1,4 +1,4 @@
-# Online-Voting-System---Python-Django
+# Online Voting System (Python,Django)
 
 ## This project aims to create a secure and efficient online voting system using the Python programming language and the Django web framework. The system is designed to allow registered users to cast their votes online, eliminating the need for physical polling stations and increasing the speed and accuracy of the voting process.
 
